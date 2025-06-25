@@ -1,0 +1,11 @@
+query_id,query_text,ground_truth,pred_svm,pred_bert,status_svm,status_bert
+1,putusan dari mahkamah agung republik indonesia yang akan terus disempurnakan ke depannya,1,1,1,BENAR,BENAR
+2,para penggugat telah mengajukan gugatannya tertanggal 26 agustus 2020 dan terdaftar di kepaniteraan pengadilan tata usaha negara bandung ,2,18,18,SALAH,SALAH
+3,penggugat dengan surat gugatannya tertanggal 11 november 2020telah mengajukan gugatan yang didaftarkan di kepaniteraan pengadilan tata usahanegara bandung ,3,3,3,BENAR,BENAR
+4,para penggugat telah mengajukan gugatantertanggal 8 desember 2020 yang terdaftar di kepaniteraan pengadilantata usaha negara bandung,4,4,4,BENAR,BENAR
+5,penggugat telah mengajukan gugatannya tertanggal 27 juli 2020 dan telah didaftarkan di kepaniteraan pengadilan tata usaha negara bandung,5,5,5,BENAR,BENAR
+6,objek gugatan dalam perkara a quo telah memenuhi syarat objekgugatan sebagaimana ketentuan pasal 1 angka (9) undang-undang nomor 51tahun 2009 ,6,6,6,BENAR,BENAR
+7,penggugat telah mengajukan surat gugatan tertanggal 27agustus 2018 yang didaftarkan di kepaniteraan pengadilan tata usahanegara bandung tanggal14 september 2020,7,7,7,BENAR,BENAR
+8,"penggugat melalui kuasa hukumnya mengajukan gugatan, yang didaftarkan secara elektronik  di kepani-teraan pengadilan tata usaha negara bandung",8,8,43,BENAR,SALAH
+9,"penggugat melalui kuasa hukumnya mengajukan gugatan, tanggal 27 agustus 2020, didaftarkan secara elektronik  di kepani-teraan pengadilan tata usaha negara bandung ",9,8,9,SALAH,BENAR
+10,"terhadap gugatan para penggugat tersebut, tergugattelah mengajukan jawabannya tertanggal 17 november 2020, padapersidangan tanggal 19 november 2020",10,10,10,BENAR,BENAR
