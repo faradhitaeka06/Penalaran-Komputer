@@ -120,7 +120,7 @@ Buka dan jalankan notebook berikut secara berurutan:
 Penalaran Komputer/
 
 ├── CSV/
-
+│
 │   ├── putusan_ma__2025-06-05.csv        ← Dataset hasil ekstraksi (CSV).
 │
 
@@ -154,6 +154,7 @@ Penalaran Komputer/
 └── logs/
 
     └── cleaning.log                      ← Catatan proses cleaning (log)
+    
 
 ---
 
