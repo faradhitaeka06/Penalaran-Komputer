@@ -67,9 +67,7 @@ Proyek ini mengembangkan sistem **penalaran berbasis kasus (Case-Based Reasoning
 ### 1. Clone Repository
 
 bash
-git clone https://github.com/tantri17/PENALARAN-KOMPUTER-Pidana-Umum-Kejahatan-Terhadap-kesusilaan.git
-cd PENALARAN-KOMPUTER-Pidana-Umum-Kejahatan-Terhadap-kesusilaan
-### Note: jika Drive tidak bisa maka dowload pada github bagian "data/Penalaran Komputer1" lalu upload pada drive anda. 
+git clone https://github.com/faradhitaeka06/Penalaran-Komputer.git
 
 
 ### 2. Install Dependensi
