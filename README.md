@@ -151,9 +151,9 @@ Penalaran Komputer/
 │   └── raw/                              ← Data hasil pembersihan awal
 
 
-└── logs/
+├── logs/
 
-    └── cleaning.log                      ← Catatan proses cleaning (log)
+│   └── cleaning.log                      ← Catatan proses cleaning (log)
     
 
 ---
