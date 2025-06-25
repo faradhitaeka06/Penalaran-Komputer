@@ -118,7 +118,9 @@ Buka dan jalankan notebook berikut secara berurutan:
 ## 📄 Struktur Folder
 
 Penalaran Komputer/
+
 ├── CSV/
+
 │   ├── putusan_ma__2025-06-05.csv        ← Dataset hasil ekstraksi (CSV).
 │
 ├── PDF/
