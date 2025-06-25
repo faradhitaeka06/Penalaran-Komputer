@@ -123,21 +123,25 @@ Penalaran Komputer/
 
 │   ├── putusan_ma__2025-06-05.csv        ← Dataset hasil ekstraksi (CSV).
 │
+
 ├── PDF/
 │   ├── zaeb5100c5d0d2b2af02323235335332.pdf
 │   ├── zaeb5100cbe5b2da80523232355335432.pdf        ← File putusan hukum asli (PDF) dengan nama acak/terenkripsi.
 │   ├── ...
 │   └── zaeb5589c4b3361c9fcf313732363136.pdf
-│     
+│   
+
 ├── data/
 │   ├── eval/                             ← Hasil eval.
 │   ├── processed/                        ← Data yang sudah diproses.
 │   ├── raw/                              ← Data mentah hasil konversi PDF/HTML
 │   └── results/                          ← Output dari proses retrieval, prediksi, dsb
 │
+
 ├── data_clean/
 │   └── raw/                              ← Data hasil pembersihan awal
 │
+
 └── logs/
     └── cleaning.log                      ← Catatan proses cleaning (log)
 
